@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adfad
+=======
+Roman zadrotit dotku. katae bez perestanku!
+>>>>>>> fe601b4d7c523222847f8c68277a710265a695a0
